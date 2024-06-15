@@ -12,7 +12,6 @@
 
 //STDLIB_H
 int _atoi(const char *str);
-double _atof(const char *str);
 
 //STRING_H
 int _strlen(const char *str);

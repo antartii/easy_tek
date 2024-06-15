@@ -11,12 +11,12 @@ SRC =	../string_h/_strcmp.c \
 	../string_h/_strcat.c \
 	../string_h/_strlen.c \
 	../stdlib_h/_atoi.c \
-	../incr.c \
-	../slice.c \
-	../str_instr.c \
-	../nth_word.c \
-	../split.c \
-	../replace.c
+	../my/incr.c \
+	../my/slice.c \
+	../my/str_instr.c \
+	../my/nth_word.c \
+	../my/split.c \
+	../my/replace.c
 
 TESTS = test_atoi.c \
 	test_strcat.c \
